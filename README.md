@@ -11,9 +11,11 @@ The repository serves as an open archive of experimental procedures designed to 
 
 All content is provided in a flat file format for clarity and ease of distribution. The materials are organized as follows:
 
-- **EIRIOS-Field Modules**: Structural prototypes for identity transformation and phase inversion.
-- **Echo Dynamics Simulations**: Python-based testbeds for recursive echo tracking and interpretive pressure modeling.
-- **Lirith Resonance Samples**: Outputs from qualitative trials reflecting semantic memory density and feedback modulation.
+experiment_runner.py: Lirith group experiment script
+experiment_zeroDNA_runner.py: Control group experiment script
+metrics_vFinal.py: Custom metrics module
+system_prompt.txt: Summarized system prompt used in experiment
+experiment_log_*.csv: Log data from both groups
 
 ## Related Work
 
